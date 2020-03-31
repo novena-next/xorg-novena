@@ -12,7 +12,6 @@ Package: xorg-novena
 Architecture: all
 Depends: ${misc:Depends},
 	xserver-xorg-video-armada-etnadrm,
-	xserver-xorg-video-armada-etnaviv,
 	xserver-xorg-video-armada
 Description: Configuration files for Xorg on Novena
  Novena has some special Xorg requirements.  Mostly, using a SW cursor.
