@@ -1,3 +1,12 @@
+xorg-novena (1.8-r1) unstable; urgency=medium
+
+  * Remove unused galcore support
+  * Update config with newer xf86-video-armada sample
+  * debian: Set myself as maintainer
+  * debian: Remove dependency on xserver-xorg-video-armada-etnaviv
+
+ -- Jookia <contact@jookia.org>  Tue, 31 Mar 2020 23:32:40 +1100
+
 xorg-novena (1.7-r1) unstable; urgency=medium
 
   * Add xserver-xorg-video-armada to dependency list
